@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Anfer<br>🔭 I'm currently working on indie gaming projects and getting my second degree in Software Dev<br>👯 I'm looking to collaborate on gaming projects and AI ventures.<br>🌱 I'm currently learning C++, Rust, Unreal Engine, Unity<br>💬 Ask me about tech and programming<br>⚡ Fun fact: I am a Velocity recipient of the Velocity program from the International Game Developers Association Foundation<br>📫 How to reach me https://www.linkedin.com/in/anfermolina/<br>
+👋 Hi, I'm Anfer<br>🔭 I'm currently working on indie gaming projects and getting my second degree in Software Dev<br>👯 I'm looking to collaborate on gaming projects and AI ventures.<br>🌱 I'm currently learning C++, Rust, Unreal Engine, Unity<br>💬 Ask me about tech and programming<br>⚡ Fun fact: I am a Velocity recipient from the International Game Developers Association Foundation<br>📫 How to reach me https://www.linkedin.com/in/anfermolina/<br>
 
 
 ## 🌐 Socials:
